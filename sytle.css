@@ -1,0 +1,29 @@
+body{
+    background-color: rgb(194, 162, 236);
+    /*Cor de fundo*/
+}
+section{
+    border: 1px dashed ;
+}
+#status{
+    color: rgb(rgb(160, 159, 159), rgb(189, 186, 190), ;
+    font-size: 30px;
+}
+button{
+    background-color: rgb(151, 78, 219);
+    width: 150px;
+    /*altura*/
+    height: 50px;
+    /*largura*/
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 18%;
+}
+.menu-item{
+    gap:5rem;
+    text-decoration:none;
+    width: 40px;
+    height:250px;
+}
+.menu-item{
+    background-color: rgb(127, 86, 165);
+}
